@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Mehta</h1>
 <h3 align="center">LPU'24| Public Speaker | Data analyst enthusiast | C++ | MsExcel | Tableau | Analytical skills| R programming learner| believe to pitch out clients</h3>
 
-<p align="left"> <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3A%2F%2Fi.nextmedia.com.au%2FNews%2F87773277_m.jpg&w=800&c=0&s=1" alt="22ayushi" /> </p>
+<p align="left"> <img style="padding-left:20px"src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3A%2F%2Fi.nextmedia.com.au%2FNews%2F87773277_m.jpg&w=800&c=0&s=1" alt="22ayushi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22ayushi" alt="22ayushi" /></a> </p>
 
