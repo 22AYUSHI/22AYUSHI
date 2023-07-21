@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Mehta</h1>
 <h3 align="center">LPU'24| Public Speaker | Data analyst enthusiast | C++ | MsExcel | Tableau | Analytical skills| R programming learner| believe to pitch out clients</h3>
 
-
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHPsAYMALZRVDq0SwqDjBG1yEkxc9HUxQOtcCfGbREqLg120riU1VzbCpGCBGqb_aSiM&usqp=CAU"/>
 
 - 🌱 I’m currently learning **SEO**
 
