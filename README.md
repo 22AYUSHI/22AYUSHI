@@ -4,7 +4,7 @@
 <img  src="portfolio.jpg"/>
 </p>
 
-- 🌱 I’m currently learning **SEO**
+- 🌱 I’m currently learning **Digital Marketing**
 
 - 📫 How to reach me **ayushimehta1123@gmail.com**
 
