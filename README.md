@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **ayushimehta1123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J7c9WZPFekUEhuRgaZsjAZ0VRnhz5lh7/view?usp=drive_link](https://drive.google.com/file/d/1J7c9WZPFekUEhuRgaZsjAZ0VRnhz5lh7/view?usp=drive_link)
-
 - ⚡ Fun fact **I am already A fun Fact**
 
 <h3 align="left">Connect with me:</h3>
