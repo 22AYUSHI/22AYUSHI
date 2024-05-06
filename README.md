@@ -9,6 +9,7 @@
 - 📫 How to reach me **ayushimehta1123@gmail.com**
 
 - ⚡ Fun fact **I am already A fun Fact**
+-  All'bout Me - **https://drive.google.com/file/d/1Xd6yz30VJ7SIMGoTMZB6pMlZwwpPJLDw/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
