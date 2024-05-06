@@ -4,7 +4,7 @@
 <img  src="portfolio.jpg"/>
 </p>
 
-- 🌱 I’m currently working as**Digital Marketing Executive**
+- 🌱 I’m currently working as **Digital Marketing Executive**
 
 - 📫 How to reach me **ayushimehta1123@gmail.com**
 
