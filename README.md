@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi Mehta</h1>
-<h3 align="center">LPU'24| Public Speaker | Data analyst enthusiast | C++ | MsExcel | Tableau | Analytical skills| Python| My SQL| Git| Docker</h3>
+<h3 align="center">LPU'24| Public Speaker | Data Science enthusiast | C++ | MsExcel | Tableau | Analytical skills| Python| My SQL| Git| Docker</h3>
 <p align="center">
 <img  src="portfolio.jpg"/>
 </p>
